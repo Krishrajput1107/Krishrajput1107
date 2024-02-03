@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**Krishrajput1107/Krishrajput1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hey there! **
 
-Here are some ideas to get you started:
+I'm Krish, a BTech CSE student at Bennett University with a passion for turning data into insights and building intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+
+Working on: Exploring the wonders of Machine Learning, developing models for various tasks.
+Learning: Delving into the world of Data Structures and Algorithms, sharpening my problem-solving skills.
+
+My Skills:
+
+Python
+☕ Java
+C++
+HTML & CSS
+Machine Learning
+Probability & Statistics
+
+📫Connect with me:
+
+Reach out: devgrade687@gmail.com
+Open to collaboration: I'm always looking for interesting projects and opportunities to learn and grow.
+
+Fun Fact:
+
+️‍♀️ When I'm not coding, you'll find me hitting the gym and staying active.
+
+
+
