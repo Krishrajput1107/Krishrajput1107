@@ -1,7 +1,10 @@
 
-**Hey there! **
+👩‍💻 About Me :
+Currently, I am a 2nd year Btech cse student at Bennett university.
 
-I'm Krish, a BTech CSE student at Bennett University with a passion for turning data into insights and building intelligent systems.
+🔭 I’m Data Science enthusiast.
+
+🌱 Exploring Myself.
 
 Currently:
 
