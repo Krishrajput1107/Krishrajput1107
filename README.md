@@ -1,4 +1,4 @@
-                                                                    Hi 👋, I'm  Krish
+                                                                 Hi 👋, I'm  Krish
 
 👩‍💻 About Me :
 Currently, I am a 2nd year Btech cse student at Bennett university.
