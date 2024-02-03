@@ -8,14 +8,8 @@ Currently:
 Working on: Exploring the wonders of Machine Learning, developing models for various tasks.
 Learning: Delving into the world of Data Structures and Algorithms, sharpening my problem-solving skills.
 
-My Skills:
-
-Python
-☕ Java
-C++
-HTML & CSS
-Machine Learning
-Probability & Statistics
+🛠️ Languages and Tools :
+Java  React  Spring  Material UI  Flutter  Redux   CSS  HTML  JavaScript  Firebase  Gatsby  MySQL  NodeJS  AWS  
 
 📫How to reach me:
 
