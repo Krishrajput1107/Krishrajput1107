@@ -17,10 +17,9 @@ HTML & CSS
 Machine Learning
 Probability & Statistics
 
-📫Connect with me:
+📫How to reach me:
 
-Reach out: devgrade687@gmail.com
-Open to collaboration: I'm always looking for interesting projects and opportunities to learn and grow.
+ devgrade687@gmail.com
 
 Fun Fact:
 
