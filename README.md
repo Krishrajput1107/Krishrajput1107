@@ -24,7 +24,7 @@ Java  React  Spring  Material UI  Flutter  Redux   CSS  HTML  JavaScript  Fireba
 
 Fun Fact:
 
-️‍♀️ When I'm not coding, you'll find me hitting the gym and staying active.
+♂ When I'm not coding, you'll find me hitting the gym and staying active.
 
 
 
