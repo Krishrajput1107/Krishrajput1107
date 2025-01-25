@@ -7,10 +7,7 @@
   <a href="https://www.linkedin.com/in/krish-rajput-435bb625a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/dixesh_01/">
-   <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a> -->
 
-  
 </div>
 <div id="pv" align="center">
   <a href="https://komarev.com/ghpvc/?username=divesh0001">
