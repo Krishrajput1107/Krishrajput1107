@@ -53,7 +53,8 @@ Currently, I am a 3rd year Btech cse student at Bennett university.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishrajput1107&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Krishrajput1107&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 ---
 
