@@ -8,15 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-</div>
-<div id="pv" align="center">
-  <a href="https://komarev.com/ghpvc/?username=divesh0001">
-<img src="https://komarev.com/ghpvc/?username=divesh0001&style=flat-square&color=blue" alt=""/>
-  </a>
-  </div>
-  <div align="center">
-  <img  align="right" top="300" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
-</div>
+
 
 ---
 
