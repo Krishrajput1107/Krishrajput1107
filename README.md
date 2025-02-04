@@ -55,4 +55,3 @@ Currently, I am a 3rd year Btech cse student at Bennett university.
 
 ---
 
-### :writing_hand: Blog Posts :
