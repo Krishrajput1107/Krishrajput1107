@@ -15,7 +15,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 Currently, I am a 3rd year Btech cse student at Bennett university.
 - :telescope: I’m Data Science enthusiast.
 
