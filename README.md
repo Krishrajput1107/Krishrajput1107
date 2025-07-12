@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm currently a **3rd year B.Tech CSE student** at Bennett University  
+🎓 I'm currently a **Final year B.Tech CSE student** at Bennett University  
 🔍 I'm passionate about **Data Science**, **Machine Learning**, and **Web Development**  
 🌱 Constantly learning and exploring new technologies  
 ⚡ In my free time, I solve problems on **LeetCode** and read tech blogs  
