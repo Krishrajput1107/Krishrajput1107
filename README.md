@@ -12,17 +12,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me  
 
-🎓 I’m currently a WordPress Developer Intern at Interview Kickstart and a final-year B.Tech CSE student at Bennett University.
-🔍 Passionate about Data Science, Machine Learning, and Web Development.
-🌱 Continuously learning and exploring new technologies.
-⚡ In my free time, I enjoy solving problems on LeetCode and reading tech blogs.
-📫 Reach me at: devgrade687@gmail.com
+- 🎓 I’m currently a **WordPress Developer Intern at Interview Kickstart** and a **final-year B.Tech CSE student at Bennett University**  
+- 🔍 Passionate about **Data Science**, **Machine Learning**, and **Web Development**  
+- 🌱 Continuously learning and exploring new technologies  
+- ⚡ In my free time, I enjoy **solving problems on LeetCode** and **reading tech blogs**  
+- 📫 Reach me at: **devgrade687@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools  
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -43,17 +43,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <div align="center">
 
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishrajput1107&show_icons=true&theme=tokyonight&rank_icon=github&hide_title=true)
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishrajput1107&show_icons=true&theme=tokyonight&rank_icon=github&hide_title=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishrajput1107&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishrajput1107&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Krishrajput1107&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Krishrajput1107&theme=tokyonight)  
 
 </div>
 
 ---
-
