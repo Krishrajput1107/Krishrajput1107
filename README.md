@@ -16,7 +16,6 @@
 
 🎓 I’m currently a WordPress Developer Intern at Interview Kickstart and a final-year B.Tech CSE student at Bennett University.
 
-
 🔍 I'm passionate about **Data Science**, **Machine Learning**, and **Web Development**  
 🌱 Constantly learning and exploring new technologies  
 ⚡ In my free time, I solve problems on **LeetCode** and read tech blogs  
